@@ -43,9 +43,9 @@
 
 ---
 
-## 🛠 Tech Stack (共通)
-- **Language:** Java 17+
-- **Framework:** Spring Boot 3.4
+## 🛠 Tech Stack
+- **Language:** Java 17
+- **Framework:** Spring Boot 3.5.9
 - **Database:** MySQL 8.0 / Redis
 - **AI:** Spring AI + DeepSeek-V3
 
